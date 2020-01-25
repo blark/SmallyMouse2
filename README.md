@@ -2,7 +2,7 @@
 
 **This is a FORK of the original SmallyMouse2 for the Amiga 1200 Rev 2B motherboard!**
 
-![A1200 SmallyMouse2 render](media/render.png)
+![A1200 SmallyMouse2 render](media/render_fb.png)
 
 ## Synopsis
 
