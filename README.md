@@ -1,6 +1,13 @@
+# A1200 SmallyMouse2
+
+**This is a FORK of the original SmallyMouse2 for the Amiga 1200 Rev 2B motherboard!X**
+
+![A1200 SmallyMouse2 render](media/render.png)
+
 ## Synopsis
 
 SmallyMouse2 is the AT90USB1287 firmware source code and KiCAD schematic/PCB design for the SmallyMouse2 project.
+
 
 ## Motivation
 
